@@ -78,27 +78,13 @@ Senior Software Engineer with a decade of experience architecting **scalable, AI
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=cuscata&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=E100FF&icon_color=7F00FF&text_color=FFFFFF" alt="GitHub Stats" />
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuscata&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=E100FF&text_color=FFFFFF" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=cuscata&theme=radical&hide_border=true&background=0D1117&stroke=7F00FF&ring=E100FF&fire=E100FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=cuscata&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E100FF&icon_color=7F00FF&text_color=FFFFFF&hide=issues,contribs" alt="GitHub Stats" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=cuscata&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=cuscata&label=Profile%20Views&color=7F00FF&style=for-the-badge)
 
 </div>
-
 ---
 
 ## 🎯 What Sets Me Apart
