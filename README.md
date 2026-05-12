@@ -137,8 +137,4 @@ I'm always open to discussing **innovative projects**, **technical collaboration
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=footer" width="100%"/>
 </div>
 
-<div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/cuscata/count.svg)
 
-</div>
