@@ -76,16 +76,13 @@ Senior Software Engineer with a decade of experience architecting **scalable, AI
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cuscata&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuscata&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cuscata&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cuscata&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cuscata&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cuscata&theme=redical&hide_border=true&bg_color=0D1117&color=7F00FF&line=E100FF&point=FFFFFF" alt="Contribution Graph" width="100%"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=cuscata&theme=radical&hide_border=true&background=0D1117)
+
 </div>
 
 ---
