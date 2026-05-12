@@ -71,21 +71,7 @@ Senior Software Engineer with a decade of experience architecting **scalable, AI
 </div>
 </details>
 
----
 
-## 📊 GitHub Analytics
-
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cuscata&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E100FF&icon_color=7F00FF&text_color=FFFFFF&hide=issues,contribs" alt="GitHub Stats" />
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=cuscata&label=Profile%20Views&color=7F00FF&style=for-the-badge)
-
-</div>
----
 
 ## 🎯 What Sets Me Apart
 
