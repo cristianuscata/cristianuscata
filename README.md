@@ -76,13 +76,16 @@ Senior Software Engineer with a decade of experience architecting **scalable, AI
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cuscata&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cuscata&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuscata&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cuscata&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=cuscata&theme=radical&hide_border=true&background=0D1117&stroke=7F00FF&ring=E100FF&fire=E100FF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=cuscata&theme=radical&hide_border=true&background=0D1117)
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cuscata&theme=radical" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
