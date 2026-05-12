@@ -1,68 +1,161 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=250&section=header&text=Hi,%20I'm%20Cristian%20Uscata&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Engineer%20%7C%20AI%20Creator%20%7C%20Tech%20Builder&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=250&section=header&text=Cristian%20Uscata&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Engineer%20%7C%20AI%20Architect%20%7C%20Tech%20Builder&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
 </div>
 
-## 👨‍💻 About Me
-
-I am a **Senior Software Engineer** with **10+ years of experience** building **scalable systems, modern architectures, and AI-driven solutions**.
-
-I specialize in the intersection of **backend development, automation, applied AI, and digital product**, with a sharp focus on **real-world impact, efficiency, and growth**. I have worked across corporate, financial, and government sectors, designing robust solutions that operate at scale.
-
-- 🔭 **Currently working on:** AI automation, video generation pipelines, intelligent agents, and LLM-based tools.
-- 🌱 **Actively exploring:** LLM architecture, AI Agents, MLOps, and data-driven growth strategies.
-- 💡 **Key interests:** Scalable software, microservices, system integration, recommendation algorithms, and tech products with business vision.
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
-
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7F00FF&center=true&vCenter=true&random=false&width=800&lines=Building+AI-Powered+Solutions+at+Scale;10%2B+Years+of+Engineering+Excellence;Transforming+Complex+Problems+into+Elegant+Code)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 📊 GitHub Insights
+## 🎯 About Me
+
+Senior Software Engineer with a decade of experience architecting **scalable, AI-driven systems** across corporate, financial, and government sectors. I bridge the gap between **cutting-edge technology** and **business impact**, specializing in backend architecture, intelligent automation, and product innovation that drives measurable growth.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisuscata&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+
+| 🔭 Currently Building | 🌱 Exploring | 💡 Core Expertise |
+|:---:|:---:|:---:|
+| AI automation pipelines<br/>LLM-powered agents<br/>Video generation systems | MLOps at scale<br/>AI Agent architectures<br/>Data-driven growth strategies | Backend & microservices<br/>System integration<br/>Performance optimization |
+
 </div>
 
 ---
 
-## 🚀 What I Bring to the Table
+## 💻 Technical Arsenal
 
-- **Backend Architecture & Microservices** design.
-- Integration of **AI & LLMs into real-world products**.
-- Process automation and content generation pipelines.
-- System optimization for **scale and high performance**.
-- Technical vision aligned with **business goals and growth**.
+<details open>
+<summary><b>🔥 Languages & Frameworks</b></summary>
+<br>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+<br>
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+</div>
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & Infrastructure</b></summary>
+<br>
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+</details>
 
 ---
 
-## 🔗 Let's Connect
+## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/crisuscata/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:crisuscata@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cuscata&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuscata&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cuscata&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cuscata&theme=redical&hide_border=true&bg_color=0D1117&color=7F00FF&line=E100FF&point=FFFFFF" alt="Contribution Graph" width="100%"/>
+</div>
+
+---
+
+## 🎯 What Sets Me Apart
+
+```python
+class CristianUscata:
+    def __init__(self):
+        self.role = "Senior Software Engineer"
+        self.location = "Lima, Peru 🇵🇪"
+        self.experience = "10+ years"
+        
+    def get_core_strengths(self):
+        return [
+            "🏗️  Architecting scalable microservices from ground up",
+            "🤖  Integrating AI/LLM into production systems",
+            "⚡  Building high-performance automation pipelines",
+            "📈  Aligning technical solutions with business ROI",
+            "🔧  Optimizing systems for scale & reliability"
+        ]
+    
+    def current_focus(self):
+        return {
+            "ai_engineering": ["LLM agents", "RAG systems", "Fine-tuning"],
+            "automation": ["Content generation", "Intelligent workflows"],
+            "innovation": ["AI-powered products", "Next-gen architectures"]
+        }
+```
+
+---
+
+## 🏆 Key Achievements
+
+<div align="center">
+
+| 💼 Experience | 🚀 Impact | 🎓 Expertise |
+|:---:|:---:|:---:|
+| **10+ Years** Engineering | Built systems serving **millions** | **Corporate, Financial,<br/>Government** sectors |
+
+</div>
+
+---
+
+## 🤝 Let's Build Something Amazing Together
+
+<div align="center">
+
+I'm always open to discussing **innovative projects**, **technical collaborations**, and **opportunities** where technology meets real-world impact.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crisuscata/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crisuscata@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7F00FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/cuscata)
+
+<br>
+
+**💡 Open to:** Senior/Lead Engineering roles | AI/ML Projects | Technical Advisory | Strategic Consulting
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  
+![Visitor Count](https://profile-counter.glitch.me/cuscata/count.svg)
+
 </div>
